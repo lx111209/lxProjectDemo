@@ -1,0 +1,6 @@
+framework module BLLazyImageLoad {
+  umbrella header "BLLazyImageLoad-umbrella.h"
+
+  export *
+  module * { export * }
+}

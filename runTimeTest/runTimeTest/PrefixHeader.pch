@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  runTimeTest
+//
+//  Created by iOS-01 on 16/11/22.
+//  Copyright © 2016年 iOS-01. All rights reserved.
+//
+
+
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "LXShowAlertController.h"
+#import "LXControlTools.h"
+#import "profixHeader.h"
+
+#endif
+
+
